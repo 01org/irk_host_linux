@@ -1,0 +1,173 @@
+/*---------------------------------------------------------------------
+    Clear out any style (set all to default)
+---------------------------------------------------------------------*/
+
+html, body, form, fieldset, p, div, h1, h2, h3, h4, h5, h6
+{
+    margin: 0;
+    padding: 0;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+/*---------------------------------------------------------------------
+    Custom fonts
+---------------------------------------------------------------------*/
+
+@font-face
+{
+    font-family: NeoSansIntel;
+    src: url('../NeoSansIntel.ttf');
+}
+
+@font-face
+{
+    font-family: NeoSansIntel;
+    font-weight: bold;
+    src: url('../NeoSansIntel-Medium.ttf');
+}
+
+/*---------------------------------------------------------------------
+    Styles for this particular page
+---------------------------------------------------------------------*/
+
+body
+{
+    background: #FFFFFF;
+    font-family: NeoSansIntel, Helvetica;
+    color: #000000;
+    font-size: 62.5%; /* 62.5% means 1em = 10px */
+}
+
+p
+{
+    font-size: 12pt;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+
+#main_list ul
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 10px;
+	list-style: none;
+}
+
+#main_list li
+{
+    font-size: 12pt;
+    padding-top: 0px;
+    padding-bottom: 14px;
+    padding-left: 0px;
+    padding-right: 10px;
+	list-style: none;
+}
+
+#sub_list ul
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+	list-style: none;
+}
+
+#sub_list li
+{
+    list-style-type: disc;
+    font-size: 11pt;
+    padding-top: 0px;
+    padding-bottom: 4px;
+	list-style: none;
+}
+
+/*---------------------------------------------------------------------
+	Heading
+---------------------------------------------------------------------*/
+
+h1
+{
+    font-family: NeoSansIntel, Helvetica;
+    font-weight: bold;
+    color: #004280;
+    font-size: 18pt;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h2
+{
+    font-family: NeoSansIntel, Helvetica;
+    font-weight: bold;
+    color: #004280;
+    font-size: 16pt;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h3
+{
+    font-family: NeoSansIntel, Helvetica;
+    font-weight: bold;
+    color: #004280;
+    font-size: 14pt;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h4
+{
+    font-family: NeoSansIntel, Helvetica;
+    font-weight: bold;
+    color: #004280;
+    font-size: 12pt;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h5
+{
+    font-family: NeoSansIntel, Helvetica;
+    font-weight: normal;
+    color: #004280;
+    font-size: 12pt;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#page_wrapper
+{
+    padding-top: 5px;
+    background: #FFFFFF;
+    overflow: auto;
+}
+
+.sub_p
+{
+    font-size: 8pt;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+
+.sub_p_indent
+{
+    font-size: 8pt;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}

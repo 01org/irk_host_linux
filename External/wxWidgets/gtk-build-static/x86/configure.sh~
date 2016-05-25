@@ -1,0 +1,3 @@
+#!/bin/bash
+
+../configure -enable-unicode --disable-shared --with-libpng --with-zlib --with-expat --prefix=$(pwd)

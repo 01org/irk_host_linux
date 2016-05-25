@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/RemoteKeyboard/RemoteKeyboard
+Icon=/usr/bin/RemoteKeyboard/Resources/icons/GCSTray-32x32.png
+Terminal=false
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Categories=Utility;Application;
+Name[en_CA]=Intel Remote Keyboard
+Name=Intel Remote Keyboard
+Comment[en_CA]=Intel Remote Keyboard allows you to use your mobile device as a mouse and keyboard
+Comment=Intel Remote Keyboard allows you to use your mobile device as a mouse and keyboard
+Path=/usr/bin/RemoteKeyboard/

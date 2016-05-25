@@ -1,0 +1,12 @@
+*.user
+*xcuserdata*
+*.DS_Store
+*.idb
+*.sdf
+*.suo
+*.o
+*.o.cmd
+*.ko
+*.log
+*.gch
+Sources/GCS/bin/*

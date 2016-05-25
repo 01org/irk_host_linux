@@ -1,0 +1,48 @@
+richtextlib_richtextbuffer.o: ../src/richtext/richtextbuffer.cpp \
+ ../include/wx/richtext/richtextbuffer.h ../include/wx/defs.h \
+ ../include/wx/list.h ../include/wx/textctrl.h ../include/wx/bitmap.h \
+ ../include/wx/image.h ../include/wx/cmdproc.h ../include/wx/object.h \
+ ../include/wx/txtstrm.h ../include/wx/stream.h ../include/wx/convauto.h \
+ ../include/wx/strconv.h ../include/wx/fontenc.h ../include/wx/variant.h \
+ ../include/wx/position.h ../include/wx/gdicmn.h ../include/wx/dataobj.h \
+ ../include/wx/settings.h ../include/wx/filename.h ../include/wx/arrstr.h \
+ ../include/wx/filefn.h ../include/wx/datetime.h ../include/wx/intl.h \
+ ../include/wx/longlong.h ../include/wx/file.h ../include/wx/string.h \
+ ../include/wx/clipbrd.h ../include/wx/event.h ../include/wx/chartype.h \
+ ../include/wx/vector.h ../include/wx/gtk/clipbrd.h \
+ ../include/wx/weakref.h ../include/wx/wfstream.h ../include/wx/ffile.h \
+ ../include/wx/mstream.h ../include/wx/sstream.h ../include/wx/textfile.h \
+ ../include/wx/textbuf.h ../include/wx/dynarray.h ../include/wx/hashmap.h \
+ ../include/wx/richtext/richtextctrl.h ../include/wx/scrolwin.h \
+ ../include/wx/caret.h ../include/wx/generic/caret.h \
+ ../include/wx/timer.h ../include/wx/dc.h ../include/wx/overlay.h \
+ ../include/wx/dnd.h ../include/wx/cursor.h ../include/wx/gtk/dnd.h \
+ ../include/wx/icon.h ../include/wx/richtext/richtextstyles.h \
+ ../include/wx/htmllbox.h ../include/wx/vlbox.h ../include/wx/vscroll.h \
+ ../include/wx/panel.h ../include/wx/html/htmlwin.h \
+ ../include/wx/window.h ../include/wx/config.h ../include/wx/confbase.h \
+ ../include/wx/base64.h ../include/wx/buffer.h ../include/wx/fileconf.h \
+ ../include/wx/stopwatch.h ../include/wx/html/winpars.h \
+ ../include/wx/module.h ../include/wx/font.h \
+ ../include/wx/html/htmlpars.h ../include/wx/html/htmltag.h \
+ ../include/wx/filesys.h ../include/wx/hashset.h \
+ ../include/wx/html/htmlcell.h ../include/wx/html/htmldefs.h \
+ ../include/wx/encconv.h ../include/wx/html/htmlfilt.h \
+ ../include/wx/ctrlsub.h ../include/wx/combo.h ../include/wx/control.h \
+ ../include/wx/renderer.h ../include/wx/colour.h \
+ ../include/wx/textentry.h ../include/wx/generic/combo.h \
+ ../include/wx/dcbuffer.h ../include/wx/dcmemory.h \
+ ../include/wx/dcclient.h ../include/wx/choice.h \
+ ../include/wx/richtext/richtextimagedlg.h ../include/wx/dialog.h \
+ ../include/wx/richtext/richtextformatdlg.h ../include/wx/propdlg.h \
+ ../include/wx/generic/propdlg.h ../include/wx/bookctrl.h \
+ ../include/wx/withimages.h ../include/wx/imaglist.h \
+ ../include/wx/generic/imaglist.h ../include/wx/notebook.h \
+ ../include/wx/gtk/notebook.h \
+ ../include/wx/richtext/richtextuicustomization.h \
+ ../include/wx/richtext/richtextsizepage.h \
+ ../include/wx/richtext/richtextdialogpage.h ../include/wx/sizer.h \
+ ../include/wx/statline.h ../include/wx/gtk/statline.h \
+ ../include/wx/valgen.h ../include/wx/validate.h ../include/wx/stattext.h \
+ ../include/wx/richtext/richtextxml.h ../include/wx/listimpl.cpp \
+ ../include/wx/arrimpl.cpp

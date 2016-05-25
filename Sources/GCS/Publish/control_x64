@@ -1,0 +1,13 @@
+Package: remote-keyboard
+Version: 1.0-1
+License: Intel Software License
+Vendor: Intel Corporation
+Architecture: amd64
+Maintainer: Intel Corporation <you@email.com>
+Installed-Size: 28449
+Depends: libappindicator1, libgtk2.0-0, build-essential
+Section: default
+Priority: extra
+Homepage: https://downloadcenter.intel.com/download/24967/Intel-Remote-Keyboard-Host-App
+Description: Intel Remote Keyboard
+ Use your mobile device as a mouse and keyboard
